@@ -14,6 +14,7 @@
 
 import json
 import os
+from typing import Union
 from dataclasses import dataclass
 from typing import TYPE_CHECKING, Any, Dict, List, Literal, Optional
 
@@ -39,7 +40,7 @@ class DatasetAttr:
     """ extra configs """
     subset: Optional[str] = None
     folder: Optional[str] = None
-    num_samples: Optional[int] = None
+    num_samples: Optional[Union[int, str]] = None
     """ common columns """
     system: Optional[str] = None
     tools: Optional[str] = None
