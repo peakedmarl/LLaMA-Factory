@@ -1,4 +1,11 @@
 {
+  "alpaca_finance": {
+    "hf_hub_url": "gbharti/finance-alpaca"
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"}
+  },
   "identity": {
     "file_name": "identity.json"
   },
