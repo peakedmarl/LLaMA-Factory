@@ -1,6 +1,6 @@
 {
     "alpaca_finance": {
-      "hf_hub_url": "shapers/alpaca-finance-10k_part1",
+      "hf_hub_url": "shapers/alpaca-finance-10k_part1_JSON",
       "columns": {
         "prompt": "instruction",
         "query": "input",
