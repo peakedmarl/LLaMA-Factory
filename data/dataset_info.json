@@ -2,7 +2,7 @@
     "twitter_financial_sentiment-analysis": {
       "hf_hub_url": "shapers/twitter_financial_sentiment-analysis",
       "columns": {
-        "prompt": "Prompt",
+        "prompt": "prompt",
         "query": "tweet",
         "response": "sentiment"}
     },
