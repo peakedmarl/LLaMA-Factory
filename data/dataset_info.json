@@ -1,10 +1,10 @@
 {
-    "alpaca_finance": {
-      "hf_hub_url": "shapers/alpaca-finance-10k_part1_JSON",
+    "twitter_financial_sentiment-analysis": {
+      "hf_hub_url": "shapers/twitter_financial_sentiment-analysis",
       "columns": {
-        "prompt": "instruction",
-        "query": "input",
-        "response": "output"}
+        "prompt": "Prompt",
+        "query": "tweet",
+        "response": "sentiment"}
     },
     "alpaca_finance2": {
       "hf_hub_url": "shapers/alpaca-finance-10k_part2",
