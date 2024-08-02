@@ -6,12 +6,14 @@
         "query": "tweet",
         "response": "sentiment"}
     },
-    "python_code_instructions_18k_alpaca": {
-      "hf_hub_url": "shapers/python_code_instructions_18k_alpaca",
+    "cci_strategy_dataset": {
+      "hf_hub_url": "shapers/Pullback_CCI",
       "columns": {
-        "prompt": "instruction",
-        "query": "input",
-        "response": "output"}
+        "prompt": "Instruction",
+        "query": "Input",
+        "response": "Output",
+        "system": "System"
+      }
   }
 }
   
