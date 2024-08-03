@@ -10,7 +10,7 @@
       "hf_hub_url": "shapers/Pullback_CCI",
       "columns": {
         "prompt": "Instruction",
-        "query": "CCI1, CCI2, CCI3, CCI4",
+        "query": "Input",
         "response": "Output"
       }
   }
