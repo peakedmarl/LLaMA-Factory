@@ -4,7 +4,8 @@
       "columns": {
         "prompt": "prompt",
         "query": "tweet",
-        "response": "sentiment"}
+        "response": "sentiment",
+        "system": "system"}
     },
     "cci_strategy_dataset": {
       "hf_hub_url": "shapers/Pullback_CCI",
