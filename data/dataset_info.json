@@ -7,12 +7,13 @@
         "response": "sentiment",
         "system": "system"}
     },
-    "cci_strategy_dataset": {
-      "hf_hub_url": "shapers/Pullback_CCI",
+    "twitter_financial_sentiment-analysis_validationSET": {
+      "hf_hub_url": "shapers/twitter_financial_sentiment-analysis_validationSET",
       "columns": {
-        "prompt": "Instruction",
-        "query": "Input",
-        "response": "Output"
+        "prompt": "prompt",
+        "query": "tweet",
+        "response": "sentiment",
+        "system": "system"
       }
   }
 }
