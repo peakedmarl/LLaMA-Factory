@@ -7,8 +7,8 @@
         "response": "sentiment",
         "system": "system"}
     },
-    "twitter_financial_sentiment-analysis_validationSET": {
-      "hf_hub_url": "shapers/twitter_financial_sentiment-analysis_validationSET",
+    "twitter_financial_sentiment-analysis_validation_set": {
+      "file_name": "twitter_financial_sentiment-analysis_validation_set.json",
       "columns": {
         "prompt": "prompt",
         "query": "tweet",
