@@ -1,14 +1,14 @@
 {
     "twitter_financial_sentiment-analysis": {
-      "hf_hub_url": "shapers/twitter_financial_sentiment-analysis",
+      "file_name": "twitter_financial_sentiment-analysis.json",
       "columns": {
         "prompt": "prompt",
         "query": "tweet",
         "response": "sentiment",
         "system": "system"}
     },
-    "twitter_financial_sentiment-analysis_validation_set": {
-      "file_name": "twitter_financial_sentiment-analysis_validation_set.json",
+    "twitter_financial_sentiment-analysis_validation-set": {
+      "file_name": "twitter_financial_sentiment-analysis_validation-set.json",
       "columns": {
         "prompt": "prompt",
         "query": "tweet",
